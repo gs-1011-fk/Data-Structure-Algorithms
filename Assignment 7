@@ -56,7 +56,7 @@ int main()
     }
 
     // Display adjacency matrix
-    // Om kutwal SY-12 Roll No. 70
+    // Gaurav Sharma SY-12 Roll No. 68
     cout << "\n===== ADJACENCY MATRIX =====\n";
 
     for (int i = 0; i < n; i++)
