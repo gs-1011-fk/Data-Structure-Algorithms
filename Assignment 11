@@ -2,7 +2,7 @@
 #include <iostream>
 #include <string>
 using namespace std;
-// gaurav sharma SY-12 Roll No. 68
+// Gaurav Sharma SY-12 Roll No. 68
 
 struct Player {
     string name;
