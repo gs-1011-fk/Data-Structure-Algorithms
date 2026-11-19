@@ -4,7 +4,7 @@
 #include <vector>
 #include <cstring>
 using namespace std;
-// gaurav sharma SY-12 Roll No. 68
+// Gaurav Sharma SY-12 Roll No. 68
 
 // Record stored in the data file
 struct Book {
